@@ -11,3 +11,5 @@ Watch tutorial on Youtube
 1.Open index.html in your browser
 
 2.Open README.md in your browser
+
+3.Open all
